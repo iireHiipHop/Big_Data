@@ -10,4 +10,6 @@ Corregidos y aceptados
 
 #Dia 2
 
-Practica Bucles y 
+Practica Bucles y Programación Funcional
+
+#Dia 3
