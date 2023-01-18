@@ -9,3 +9,5 @@ Practica Python Notebook y practica condicionales
 Corregidos y aceptados
 
 #Dia 2
+
+Practica Bucles y 
